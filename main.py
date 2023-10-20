@@ -188,7 +188,7 @@ def main(message):
 [↯] 𝗕𝗮𝗻𝗸: {bank}
 [↯] 𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {do}
 ──────────────────
-[↯] 𝗕𝗢𝗧 𝗕𝗬: KRISHNA
+[↯] 𝗕𝗢𝗧 𝗕𝗬: BEN
 [↯] 𝗣𝗥𝗢𝗫𝗬 : 𝗟𝗶𝘃𝗲 [1XX.XX.XX 🟢]
 ──────────────────''')
         else:
@@ -203,6 +203,6 @@ def main(message):
 
 
 keep_alive()
-print("STARTED BOT @CYPHIC_MAIN_CHANNEL")
+print("STARTED BOT @NUMBER03ANURAG")
 bot.infinity_polling()
 
